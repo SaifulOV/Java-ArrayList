@@ -1,0 +1,11 @@
+Array :
+1. Not Resizeable.
+2.for , foreach.
+3.first.
+4. array.length
+-----------------------------
+ArrayList:
+1. Resizeable.
+2. foreach , iterator .
+3. Slow
+4.array.size().
